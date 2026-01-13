@@ -1,0 +1,13 @@
+Production Checklist – ESP32 Tachometer v1.0
+
+[ ] Sensor wiring verified
+[ ] Shield connected to ESP32 GND only
+[ ] 330 Ω series resistor installed
+[ ] 4.7 kΩ I2C pull-ups installed
+[ ] 100 nF capacitor on motor
+[ ] Firmware v1.0 loaded
+[ ] CPU set to 160 MHz
+[ ] Flash set to 80 MHz
+[ ] Factory calibration completed
+[ ] Trimmer locked
+[ ] RPM test passed

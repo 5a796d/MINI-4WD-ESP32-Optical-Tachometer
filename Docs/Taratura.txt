@@ -1,0 +1,62 @@
+DA ESEGUIRE LONTANO DA EVENTUALI FONTI ELETTROMAGNETICHE
+
+Perché a progetto finito va fatta la taratura
+
+Perché anche se il progetto è corretto, il mondo reale non è ideale.
+
+La taratura non serve a correggere il codice, ma a compensare le tolleranze fisiche che non puoi eliminare.
+
+I 4 motivi REALI
+
+
+1- Il fotointerruttore:
+
+ha soglia variabile
+
+tempi di salita diversi
+
+jitter sul fronte
+
+Il tuo trimmer regola dove scatta l’impulso reale.
+
+
+2- Il disco:
+
+non è perfettamente centrato all'asse del motore
+
+ha fori con micro-differenze
+
+può oscillare
+
+A 50.000 RPM ogni microerrore si moltiplica.
+
+
+3- Elettronica reale
+
+Anche con pull-up corretti, resistenza in serie e filtri PCNT
+
+restano:
+
+ritardi
+
+rimbalzi
+
+EMI
+
+La taratura assorbe l’errore sistematico residuo.
+
+
+4- Riferimento assoluto
+
+Il tuo tachimetro non misura “RPM veri”
+misura impulsi / tempo.
+
+Gli RPM diventano “veri” solo quando le confronti con uno strumento noto.
+
+Cosa NON è la taratura
+
+Non è una pezza
+Non è perché “il codice è sbagliato”
+Non è obbligatoria a ogni accensione
+
+È una calibrazione di fabbrica.

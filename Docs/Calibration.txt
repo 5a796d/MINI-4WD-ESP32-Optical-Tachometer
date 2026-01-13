@@ -1,0 +1,62 @@
+TO BE CARRIED OUT AWAY FROM ANY ELECTROMAGNETIC SOURCES
+
+Because calibration must be done once the project is finished
+
+Because even if the design is correct, the real world is not ideal.
+
+Calibration is not used to correct the code, but to compensate for physical tolerances that you cannot eliminate.
+
+The 4 REAL reasons
+
+
+1- The photo interruptor:
+
+has variable threshold
+
+different rise times
+
+jitter on the front
+
+Your trimmer adjusts where the actual pulse is triggered.
+
+
+2- The disc:
+
+it is not perfectly centered on the motor axis
+
+It has holes with micro-differences
+
+it can swing
+
+At 50,000 RPM every micro error multiplies.
+
+
+3- Real electronics
+
+Even with correct pull-ups, series resistor and PCNT filters
+
+remain:
+
+delays
+
+rebounds
+
+EMI
+
+Calibration absorbs the residual systematic error.
+
+
+4- Absolute reference
+
+Your tachometer does not measure “true RPM”
+measures pulses / time.
+
+RPMs only become “true” when you compare them to a known instrument.
+
+What calibration is NOT
+
+It's not a piece of cake
+It's not because "the code is wrong"
+It is not mandatory every time you turn it on
+
+It is a factory calibration.

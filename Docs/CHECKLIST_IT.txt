@@ -1,0 +1,13 @@
+Checklist di produzione – Tachimetro ESP32 v1.0
+
+[ ] Cablaggio sensore verificato
+[ ] Calza collegata solo lato ESP32
+[ ] Resistenza serie 330 Ω presente
+[ ] Pull-up I2C 4.7 kΩ presenti
+[ ] Condensatore 100 nF sul motore
+[ ] Firmware v1.0 caricato
+[ ] CPU a 160 MHz verificata
+[ ] Flash a 80 MHz verificata
+[ ] Calibrazione di fabbrica eseguita
+[ ] Trimmer bloccato
+[ ] Test RPM superato
