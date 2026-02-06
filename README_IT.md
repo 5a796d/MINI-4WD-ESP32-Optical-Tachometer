@@ -1,4 +1,4 @@
-# Tachimetro ottico ESP32 – Versione 1.0
+# MINI4WD Tachimetro ottico ESP32 – Versione 1.0
 
 Tachimetro ottico ad alta precisione basato su ESP32, progettato per misurare gli RPM in modo affidabile anche in ambienti elettricamente rumorosi.
 
