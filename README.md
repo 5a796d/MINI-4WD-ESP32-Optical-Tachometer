@@ -1,4 +1,4 @@
-# ESP32 Optical Tachometer – Version 1.0 MINI4WD
+# MINI4WD ESP32 Optical Tachometer – Version 1.0 
 
 High-precision optical tachometer based on ESP32, designed for reliable RPM measurement even in electrically noisy environments.
 
